@@ -75,6 +75,7 @@ I'm Prathik Pai, a passionate and versatile student with a love for coding, crea
 - JavaScript: Adding interactivity and client-side functionality.
 - PHP: Server-side scripting and backend logic.
 - MySQL: Database management and data storage.
+  
 **Tools & Technologies:**
 - XAMPP/WAMP: Local development environment for PHP and MySQL.
 - phpMyAdmin: Database management tool for MySQL.
