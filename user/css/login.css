@@ -1,0 +1,54 @@
+body{
+	margin: 0 auto;
+	background-image: url(image/formbg.jpeg);
+	background-repeat: no-repeat;
+	background-size:cover;
+    width: 100%;
+    height: 700px;
+    background-position: center;
+}
+
+.container{
+	width: 360px;
+	height: 440px;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 40px;
+	background-color: rgba(0, 0, 0, 0.7);
+	margin-top: 30px;
+}
+
+.container img{
+	width: 100px;
+	height: 100px;
+	border-radius: 70px;
+	margin-top: -30px;
+}
+
+input[type="text"],input[type="password"]{
+	margin-top: 30px;
+	height: 45px;
+	width: 250px;
+	font-size: 18px;
+	border-radius: 15px;
+	margin-bottom: 20px;
+	background-color:rgba(245, 245, 245, 0.718);
+	padding-left: 40px;
+}
+
+.btn-login{
+	padding: 15px 25px;
+	border: none;
+	border-radius: 20px;
+	height: 50px;
+	width: 190px;
+	background-color: #5504cf;
+	color: #fff;
+}
+.btn-login:hover{
+	background-color: #ffc107;
+}
+.container{
+	font-style:bold;
+	color: aliceblue;
+}

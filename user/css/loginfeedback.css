@@ -1,0 +1,33 @@
+.aply-login{
+    position: relative;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 500px;
+    left: 300px; top: -100px;
+    bottom: 10px;
+    background-color: rgb(46, 46, 136);
+    color: aliceblue;
+
+}
+.aply-login:hover
+{
+    background-color: chartreuse;
+}
+.aply-feed{
+    position: relative;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 500px;
+    left: 700px; top: -140px;
+    bottom: 10px;
+    background-color: rgb(46, 46, 136);
+    color: aliceblue;
+ 
+}
+.aply-feed:hover
+{
+    background-color: darkkhaki;
+}
+

@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+body{
+    background: none;
+}
+.main{
+    position: absolute;
+    top: 90%;
+    left:40%;
+    
+}
+input{
+    border: 3px solid #1d004b;
+    height: 60px;
+    width: 350px;
+    border-radius: 50px;
+    padding:  0px 20px;
+
+}
+html, body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+@media (max-width: 772px){
+    .site-blocks-cover h1{
+        font-weight: 400;
+        font-size: 40px; 
+    }
+}
+.hr-travel{
+    width:25%;
+    height: 0.5px;
+    /* background: #273035; */
+    background: linear-gradient(to right, #f8f8f800, #000000e3, #ffffff00);
+    margin-top: 0;
+    margin-bottom: 40px;
+    margin-left: 38%;
+}
+
+.bus {
+    /* Some layout code… */
+    animation: xAxis 5s infinite ease-in;
+  }
+
+@keyframes xAxis {
+    100% {
+      animation-timing-function: ease-in;
+      transform: translateX(1450px);
+    }
+  }
+
