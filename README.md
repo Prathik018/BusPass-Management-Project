@@ -31,11 +31,6 @@ The Bus Pass Management System is a comprehensive web-based application designed
 To run the Bus Pass Management System locally:
 1. Clone the repository:
 
-
-```bash
- git clone https://github.com/your-repo/bus-pass-management.git
-
-```
 2. Install a local server (XAMPP/WAMP).
 
 3. Move the project files into the htdocs folder (for XAMPP) or the equivalent in your server environment.
