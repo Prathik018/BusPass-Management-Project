@@ -31,11 +31,6 @@ The Bus Pass Management System is a comprehensive web-based application designed
 To run the Bus Pass Management System locally:
 1. Clone the repository:
 
-
-```bash
- git clone https://github.com/your-repo/bus-pass-management.git
-
-```
 2. Install a local server (XAMPP/WAMP).
 
 3. Move the project files into the htdocs folder (for XAMPP) or the equivalent in your server environment.
@@ -80,6 +75,7 @@ I'm Prathik Pai, a passionate and versatile student with a love for coding, crea
 - JavaScript: Adding interactivity and client-side functionality.
 - PHP: Server-side scripting and backend logic.
 - MySQL: Database management and data storage.
+  
 **Tools & Technologies:**
 - XAMPP/WAMP: Local development environment for PHP and MySQL.
 - phpMyAdmin: Database management tool for MySQL.
